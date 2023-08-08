@@ -14,6 +14,8 @@ public class Amstrong {
 		else {
 			System.out.println("not a amstrong");
 		}
+		System.out.println("1");
+		System.out.println("2");
 	}
 
 }
